@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shared_DrawingApp-Client/static/css/main.eed77473.css",
+    "main.js": "/Shared_DrawingApp-Client/static/js/main.f8f5d132.js",
+    "index.html": "/Shared_DrawingApp-Client/index.html",
+    "main.eed77473.css.map": "/Shared_DrawingApp-Client/static/css/main.eed77473.css.map",
+    "main.f8f5d132.js.map": "/Shared_DrawingApp-Client/static/js/main.f8f5d132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed77473.css",
+    "static/js/main.f8f5d132.js"
+  ]
+}
